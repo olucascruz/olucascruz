@@ -1,3 +1,3 @@
 <h1>Olá</h1>
 
-<h2>Estou atualmente estudando node.js<h2>
+<h2>Estou atualmente estudando reactjs<h2>
