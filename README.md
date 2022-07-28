@@ -2,8 +2,13 @@
 <h2>Graduando em Sistema de informação<h2>
 <div align="center">
   <a href="https://github.com/olucascruz">
+  <img width="600px" src="https://github-readme-streak-stats.herokuapp.com?user=olucascruz&theme=dracula&date_format=M%20j%5B%2C%20Y%5D"/>
+  
+  <br>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=olucascruz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true &hide=issues"/>
+  <br>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=olucascruz&layout=compact&langs_count=7&theme=dracula&hide=ShaderLab,HlSL"/>
+  
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
