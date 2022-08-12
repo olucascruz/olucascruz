@@ -7,7 +7,7 @@
   <br>
    <img height="200em" src="https://github-readme-streak-stats.herokuapp.com?user=olucascruz&theme=dracula&date_format=M%20j%5B%2C%20Y%5D"/>
   <br>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=olucascruz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true &hide=issues"/>
+ 
   
 </div>
 <div style="display: inline_block"><br>
