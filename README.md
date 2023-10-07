@@ -1,7 +1,7 @@
 <h1>Olá sou Lucas Cruz</h1>
 <h2>Sobre</h2>
 <p>Sou um desenvolvedor de software, graduando em Sistemas de Informação.</p>
-<p>Entusiasta de VR.</p>
+
 <h3>Áreas de interesse</h3>
 <p> - Desenvolvimento Web </p>
 <p> - Desenvolvimento de RPA - Robotic Process Automation</p>
