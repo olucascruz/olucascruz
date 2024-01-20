@@ -1,5 +1,6 @@
 <h1>Olá sou Lucas Cruz</h1>
 <h2>Sobre</h2>
+<p>Portfolio: https://olucascruz.github.io/Portfolio/</p>
 <p>Sou um desenvolvedor de software, graduando em Sistemas de Informação.</p>
 
 <h3>Áreas de interesse</h3>
