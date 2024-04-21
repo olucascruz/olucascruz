@@ -13,7 +13,7 @@
 <div align="center">
   <a href="https://github.com/olucascruz">
   
-  <img width="550em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=olucascruz&layout=compact&langs_count=7&theme=dracula&hide=ShaderLab,HlSL"/>
+  <img width="550em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=olucascruz&layout=compact&langs_count=7&theme=dracula&hide=ShaderLab,HlSL,jupyter%20notebook"/>
   <br>
    <img height="200em" src="https://github-readme-streak-stats.herokuapp.com?user=olucascruz&theme=dracula&date_format=M%20j%5B%2C%20Y%5D"/>
   <br>
