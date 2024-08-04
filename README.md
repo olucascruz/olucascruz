@@ -7,6 +7,10 @@
 <p> - Desenvolvimento Mobile </p>
 <p> - Desenvolvimento de Jogos : https://olucas8.itch.io/ </p>
 
+Perfil beecrowd - https://judge.beecrowd.com/pt/profile/592929
+
+Problemas Resolvidos: 52
+
 <hr>
 <div align="center">
   <a href="https://github.com/olucascruz">
@@ -26,5 +30,5 @@
   <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Unity" src="https://user-images.githubusercontent.com/69447962/189151329-d2417ec5-b730-40df-8ccc-42195f25e76b.png">
 </div>
- 
+
   ##
