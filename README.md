@@ -9,7 +9,7 @@
 
 Perfil beecrowd - https://judge.beecrowd.com/pt/profile/592929
 
-Problemas Resolvidos: 52
+Problemas Resolvidos: 53
 
 <hr>
 <div align="center">
