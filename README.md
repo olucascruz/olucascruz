@@ -5,7 +5,7 @@
 <p> - Desenvolvimento Web </p>
 <p> - Desenvolvimento de RPA - Robotic Process Automation</p>
 <p> - Desenvolvimento Mobile </p>
-<p> - Desenvolvimento de Jogos : https://olucas8.itch.io/ </p>
+
 
 Perfil beecrowd - https://judge.beecrowd.com/pt/profile/592929
 
