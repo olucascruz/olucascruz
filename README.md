@@ -4,12 +4,10 @@
 <h3>Áreas de interesse</h3>
 <p> - Desenvolvimento Web </p>
 <p> - Desenvolvimento de RPA - Robotic Process Automation</p>
-<p> - Desenvolvimento Mobile </p>
-
 
 Perfil beecrowd - https://judge.beecrowd.com/pt/profile/592929
 
-Problemas Resolvidos: 53
+Problemas Resolvidos: 56
 
 <hr>
 <div align="center">
